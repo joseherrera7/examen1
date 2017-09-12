@@ -7,7 +7,6 @@ import org.junit.Test;
 
 import gt.edu.url.examen1.api.Demo;
 import gt.edu.url.examen1.impl.DemoImpl;
-
 /**
  *
  * @author tuxtor
